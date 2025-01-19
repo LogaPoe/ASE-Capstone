@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Excluding build folders
+/android
+/ios
+/linux
+/web
+/windows
