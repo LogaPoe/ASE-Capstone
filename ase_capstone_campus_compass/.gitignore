@@ -45,8 +45,8 @@ app.*.map.json
 /android/app/release
 
 # Excluding build folders
-/android
-/ios
-/linux
-/web
-/windows
+/android/*
+/ios/*
+/linux/*
+/web/*
+/windows/*
