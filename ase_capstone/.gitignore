@@ -52,3 +52,12 @@ linux/
 macos/
 windows/
 .metadata
+
+# firebase
+firebase.json
+.firebase
+.firebaserc
+firebase_options.dart
+
+# added pubspec lock to avoid client sided keys
+pubspec.lock
